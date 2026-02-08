@@ -1,0 +1,85 @@
+# לפה — Generative Engine Optimization Map
+
+> A מוצרי חיות מחמד / מתנות business.
+
+---
+
+## Pages
+
+### Home
+https://-f3cb8589.zappy5.app
+
+### How It Works
+https://-f3cb8589.zappy5.app/how-it-works
+
+### Pricing
+https://-f3cb8589.zappy5.app/pricing
+
+### Contact
+https://-f3cb8589.zappy5.app/contact
+
+### Products
+https://-f3cb8589.zappy5.app/products
+המוצרים שלנו - לפה
+
+### Cart
+https://-f3cb8589.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-f3cb8589.zappy5.app/checkout
+תשלום
+
+### Login
+https://-f3cb8589.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-f3cb8589.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-f3cb8589.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-f3cb8589.zappy5.app/product/:slug
+פרטי המוצר - לפה
+
+### Category
+https://-f3cb8589.zappy5.app/category/:slug
+מוצרים - לפה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f3cb8589.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f3cb8589.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f3cb8589.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About לפה
+לפה is a business in the מוצרי חיות מחמד / מתנות industry.
+
+## Target Audience
+בעלי חיות מחמד
+
+## Industry
+מוצרי חיות מחמד / מתנות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-f3cb8589.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-f3cb8589.zappy5.app/robots.txt
